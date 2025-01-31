@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: url(../img/Scrabble.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100dvh;
+}
+
+.outer-box {
+  width: 50%
+}
+
+/* .progress-box {
+    width: 60%;
+    justify-self: center;
+    align-self: center;
+} */
